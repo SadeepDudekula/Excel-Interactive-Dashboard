@@ -42,7 +42,9 @@ The primary goal was to identify sales trends, top-performing categories, and re
 
 
 ## 🧑‍💻 About Me
-Hi! i'm Dudekula Sadeep
+Hi! i'm Dudekula Sadeep 
+Aspiring Data Analyst  
+This project demonstrates my Excel skills in data cleaning, analysis, and dashboard creation.
 
 ---
 *Special thanks to Rishabh Mishra for the project guidance!*
