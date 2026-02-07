@@ -10,8 +10,11 @@ The primary goal was to identify sales trends, top-performing categories, and re
 
 ## 📸 Dashboard Preview
 
-![Main Dashboard]
+### Annual Report Overview
+![Annual Report](Screenshot%202026-02-07%20000752.png)
 
+### Data Insights & Visualization
+![Data Analysis](Screenshot%202026-02-07%20223816.png)
 ---
 
 ## 🛠️ Data Processing Steps
